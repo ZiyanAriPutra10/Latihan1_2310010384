@@ -7,5 +7,10 @@ package latihan3;
  */
 
 public class Rumus {
+    //Membuat Atribut
+    private String sisi;
+    private String panjang;
+    private String lebar;
+    private String hasil;
 
 }
